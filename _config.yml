@@ -1,0 +1,23 @@
+# Site settings
+title:  March for Science Madison
+email:  sciencemarchmsn@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: ScienceMarchMSN
+facebook_username: madscientistmarch
+
+# Build settings
+markdown: kramdown
+
+
+# Social sharing protocols
+# These are for automatically generating sharing metadata for FB and Twitter
+protocols:
+    fb_image: "/img/color_atom.png"
+    fb_image_width: 128
+    fb_image_height: 141
+    fb_image_type: "image/png"
+
+    twitter_image: "/img/color_atom.png"
