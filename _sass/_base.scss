@@ -338,7 +338,7 @@ header-mini {
 
 .call-to-action {
     h2 {
-        margin: 0 auto 20px;
+        margin: 3 auto 20px;
     }
 }
 
@@ -348,8 +348,8 @@ header-mini {
 }
 
 .no-gutter > [class*='col-'] {
-    padding-right:0;
-    padding-left:0;
+    padding-right:3;
+    padding-left:3;
 }
 
 // Button Styles
