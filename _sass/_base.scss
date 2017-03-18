@@ -113,21 +113,21 @@ aside {
         background-color: transparent;
         border-color: rgba(white, .3);
         .navbar-header .navbar-brand {
-            color: rgba(white, .7);
+            color: rgba($theme-dark, .7);
             &:hover,
             &:focus {
-                color: white;
+                color: $theme-dark;
             }
         }
         .nav > li > a,
         .nav > li > a:focus {
-            color: rgba(white, .7);
+            color: rgba($theme-dark, .7);
             &:hover {
-                color: white;
+                color: $theme-dark;
             }
         }
         &.affix {
-            background-color: white;
+            background-color: $theme-dark;
             border-color: rgba($theme-dark, .5);
             .navbar-header .navbar-brand {
                 color: $theme-primary;
