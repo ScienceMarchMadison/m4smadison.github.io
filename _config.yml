@@ -11,6 +11,8 @@ facebook_username: MADISONsciencemarch
 # Build settings
 markdown: kramdown
 
+gems:
+  - jekyll-seo-tag
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
